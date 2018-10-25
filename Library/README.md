@@ -113,8 +113,10 @@ This folder stores documents for reference — good items to use for understandi
 - [AICPA Privacy Maturity Model](Documents/AICPA%20Privacy%20Maturity%20Model.pdf)
 - [FSIS Privacy Controls](Documents/FSIS%20Privacy%20Controls.pdf)
 - [Generally Accepted Privacy Principles](Documents/Generally%20Accepted%20Privacy%20Principles.pdf)
+- [New Zealand's Privacy Maturity Assessment guide](Documents/Privacy%20Maturity%20Assessment%20Elements%20and%20Attributes%20NZ.pdf)
 - [NIST Privacy Controls](Documents/NIST%20Privacy%20Controls.pdf)
 - [NIST ISACA Privacy Controls](Documents/NIST%20ISACA%20Privacy%20Controls.pdf)
+- [NIST Performance Measurement Guide](Documents/NIST%20Performance%20Measurement%20Guide.pdf)
 - [Mapping ISO27k to GDPR](Documents/ISO27k_GDPR_mapping_release_1.docx)
 
 ---
